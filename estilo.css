@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
 body
 {
     text-align: center;
@@ -7,6 +10,7 @@ body
     font-size: 16px;
     margin: 0px;
     padding: 0px;
+<<<<<<< HEAD
 =======
 body{
     color:#333;
@@ -16,6 +20,8 @@ body{
     margin:0;
     padding:0
 >>>>>>> cabecera
+=======
+>>>>>>> master
 }
 #cabecera{
     background:#33a;
